@@ -1,6 +1,5 @@
 import MealsSummary from './MealsSummary'
 import AvaliableMeals from './AvaliableMeals'
-import classes from './Meals.module.css'
 import { Fragment } from 'react'
 const Meals = () => {
     return (
