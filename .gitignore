@@ -7,7 +7,6 @@
 # Ignorar archivos y directorios específicos
 /node_modules/
 /dist/
-/build/
 
 # Ignorar archivos de credenciales o claves privadas
 .env
